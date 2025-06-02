@@ -5,5 +5,4 @@ Features
 * Analyzes efficiency and performance factors
 * Models aerodynamic forces and turbine dynamics
 
-Usage
 Run the script in MATLAB to simulate wind turbine performance. Modify input parameters within the script to adjust for different wind conditions or turbine configurations.
